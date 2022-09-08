@@ -3,7 +3,7 @@
 I'm committed to developing my research skills in Information Retrieval, Text Processing, Machine Learning, and Data Science.
 
 - 🔭 Contributing on Open Source Projects with Python
-- 🌱 Learning NLP, IR, and new things each day 
+- 🌱 Learning ML, NLP, IR, and new things each day 
 - 👯 Looking to collaborate on Open Source Projects
 - 📫 How to reach me: [LinkedIn - @muzakker](https://www.linkedin.com/in/muzakker/), [Twitter - @its_muzakker](https://twitter.com/its_muzakker)
 <!-- - 🤔 I’m looking for help with  -->
