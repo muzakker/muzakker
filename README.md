@@ -11,8 +11,8 @@
 <!-- - 😄 Pronouns:  -->
 <!-- - ⚡ Fun fact: ... -->
 
-### My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=muzakker&&show_icons=true&title_color=ffffff&icon_color=00FFFF&text_color=daf7dc&bg_color=151515">
+<!-- ### My GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=muzakker&&show_icons=true&title_color=ffffff&icon_color=00FFFF&text_color=daf7dc&bg_color=151515"> -->
 
 ### My GitHub Streak
 [![Muzakker's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muzakker&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
